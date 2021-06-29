@@ -58,3 +58,19 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+
+VFX Graph Experiments/Library/
+
+VFX Graph Experiments/Assets/SampleSceneAssets/
+
+VFX Graph Experiments/Assets/HDRPDefaultResources/
+
+VFX Graph Experiments/Logs/
+
+VFX Graph Experiments/Temp/
+
+VFX Graph Experiments/Assets/HDRPDefaultResources.meta
+
+VFX Graph Experiments/Assets/SampleSceneAssets.meta
+
+VFX Graph Experiments/Assets/Scenes.meta
