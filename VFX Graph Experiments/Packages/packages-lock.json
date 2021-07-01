@@ -150,6 +150,12 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
+    "com.unity.vfx-toolbox": {
+      "version": "file:M:/UnityProjects/_PREPOS/New folder/VFX-Graph-EX/VFX Graph Experiments/VFXToolbox-master",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "com.unity.visualeffectgraph": {
       "version": "10.5.0",
       "depth": 1,
